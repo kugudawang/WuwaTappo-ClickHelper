@@ -1,4 +1,4 @@
-Wuwa Tappo 助手 1.0.3 个人免费使用许可
+Wuwa Tappo 助手 1.0.4 个人免费使用许可
 
 著作权人：kugudawang
 商业授权联系：https://github.com/kugudawang
